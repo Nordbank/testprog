@@ -10,7 +10,7 @@ namespace testprog
     {
         static void Main(string[] args)
         {
-            int x1 = 0;
+            int x1;
 
             int a = 10, b = 10;
 
