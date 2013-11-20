@@ -12,7 +12,7 @@ namespace testprog
         {
             int x1 = 0;
 
-            int a = 10, b = 10;
+            int a = 11, b = 10;
 
             x1 = a + b;
 
